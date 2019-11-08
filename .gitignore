@@ -1,0 +1,11 @@
+# Cargo target files
+/target
+**/*.rs.bk
+
+# sample photos
+/samples
+
+# images
+*.png
+*.jpg
+*.jpeg
