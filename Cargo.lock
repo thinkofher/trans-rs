@@ -335,7 +335,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "trans"
+name = "trans-rs"
 version = "0.1.0"
 dependencies = [
  "image 0.22.3 (registry+https://github.com/rust-lang/crates.io-index)",

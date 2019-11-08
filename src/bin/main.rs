@@ -10,7 +10,7 @@ use std::collections::HashMap;
 use std::env;
 use std::process;
 
-use trans::{Recipe, RecipeBuilder, RgbaDiff};
+use trans_rs::{Recipe, RecipeBuilder, RgbaDiff};
 
 fn main() {
     let args: Vec<String> = env::args().skip(1).collect();

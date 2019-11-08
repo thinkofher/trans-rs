@@ -1,5 +1,5 @@
 [package]
-name = "trans"
+name = "trans-rs"
 version = "0.1.0"
 authors = ["thinkofher <beniamin.dudek@yahoo.com>"]
 edition = "2018"
